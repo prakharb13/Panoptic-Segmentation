@@ -1,8 +1,21 @@
 # Panoptic-Segmentation
 
-<img src="https://user-images.githubusercontent.com/25415975/145647209-ceccec02-91e0-4efb-8389-e33d2fd90901.png" width=60% height=60%>
+What is Panoptic Segmentation?
 
-Implementation of Panoptic Segmentation on COCO Dataset using Detectron2 open-source package by Facebook AI Research team
+<img src="https://user-images.githubusercontent.com/25415975/145647434-c70015c8-51e8-4b0f-a730-0b25ea8420dd.png" width=60% height=60%>
+
+Fig 1: Instance Segmentation
+Identification of "thing", where a "thing" is a countable object such as people, car, etc
+
+Fig 2: Semantic Segmentation
+Identification of "stuff", where stuff is an amorphous region of similar texture such as road, sky, etc, thus it’s a category without instance-level annotation
+
+Fig 3: Panoptic Segmentation
+Combination of both, the label encoding of pixels in panoptic segmentation involves assigning each pixel of an image two labels – one for the semantic label, and the other for instance id 
+
+
+
+**Implementation of Panoptic Segmentation on COCO Dataset using Detectron2 open-source package by Facebook AI Research team**
 
 Panoptic Segmentation Architecture
 
