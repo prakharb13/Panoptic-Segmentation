@@ -1,6 +1,6 @@
 # Panoptic-Segmentation
 
-<img src="https://user-images.githubusercontent.com/25415975/145644654-fa0e4e09-f335-43f9-97a4-fe0f2c92a330.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/25415975/145647209-ceccec02-91e0-4efb-8389-e33d2fd90901.png" width=60% height=60%>
 
 Implementation of Panoptic Segmentation on COCO Dataset using Detectron2 open-source package by Facebook AI Research team
 
