@@ -15,5 +15,4 @@ Below image shows how panoptic segmentation identifies both instances and semant
 
 <img src="https://user-images.githubusercontent.com/25415975/145644917-ebea0092-0e3c-4c00-b54e-b8c65ccd601a.png" width=50% height=50%>
 
-
 Link: https://github.com/facebookresearch/detectron2
