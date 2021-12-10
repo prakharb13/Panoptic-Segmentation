@@ -22,6 +22,8 @@ import torchvision.transforms as T
 import numpy
 torch.set_grad_enabled(False);
 
+
+
 ! pip install git+https://github.com/cocodataset/panopticapi.git
 
 import panopticapi
